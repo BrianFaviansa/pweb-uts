@@ -4,9 +4,6 @@ module.exports = {
     "./src/**/*.{html,js}",
   ],
   theme: {
-    fontFamily: {
-      "NotoSans-Regular": ['NotoSans-Regular.ttf'],
-    },
     extend: {
     },
     plugins: []
